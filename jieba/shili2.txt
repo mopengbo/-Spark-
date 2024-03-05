@@ -1,0 +1,4 @@
+(data,3),(you,2),(my,4)
+(what,1),(same,4),(like,2)
+(data,2),(same,3),(you,2))
+(yes,3),(like,2),(what,4)
